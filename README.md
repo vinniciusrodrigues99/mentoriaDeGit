@@ -1,6 +1,9 @@
 # Mentoria de Git
 Bem-vindos ao repositório de exercícios da mentoria de GIT!  Este repositório é dedicado a armazenar e compartilhar os exercícios práticos da disciplina. Aqui, os alunos terão a oportunidade de experimentar o trabalho em conjunto das branches.
 
+# Ideia do desáfio 
+Vocês precisarão criar um novo arquivo Readme onde os três deverão colocar o seu próprio gabarito e trabalhar em conjunto cada um com a sua própria branch. Boa sorte!! 
+
 Lista de Exercícios 
 
 Este repositório é dedicado a armazenar e organizar as listas de exercícios completas pelos estagiários durante o curso. Cada estagiário terá sua própria branch onde poderá subir suas soluções.
